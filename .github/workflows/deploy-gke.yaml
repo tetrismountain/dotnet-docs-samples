@@ -9,11 +9,11 @@ env:
   PROJECT_ID: odootm
   PROJECT_NUMBER: 654837999123
 
-  CLUSTER: clouddemo-linux
-  CLUSTER_ZONE: us-central1-a
+  CLUSTER: autopilot-cluster-1
+  CLUSTER_ZONE: us-west1
 
-  REPOSITORY: clouddemo
-  REPOSITORY_REGION: us-central1
+  REPOSITORY: docker-artifact
+  REPOSITORY_REGION: us-west1
 
   IMAGE: clouddemo
 
