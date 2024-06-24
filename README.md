@@ -1,4 +1,4 @@
-# Google Cloud Platform .NET Docs Samples
+# Google Cloud Platform .NET Docs Samples with GCP
 
 A collection of samples that demonstrate how to call some
 Google Cloud services from C#.
